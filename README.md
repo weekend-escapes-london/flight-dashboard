@@ -10,4 +10,4 @@ Find the best flight deals from London to European destinations.
 
 ## Live App
 
-[View the dashboard](https://your-app.streamlit.app)
+[View the dashboard](https://weekendescapeslondon.streamlit.app)
